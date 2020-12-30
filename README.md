@@ -1,6 +1,6 @@
 # Blog site
 
-Created a Blogsite using NodeJs modules along with a databse i mongoDB.
+Created a Blogsite using NodeJs modules along with a databse in mongoDB.
 
 ## Deployment
 [Project](https://hidden-peak-88533.herokuapp.com/)
