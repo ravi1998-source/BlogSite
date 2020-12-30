@@ -6,7 +6,7 @@ Created a Blogsite using NodeJs modules along with a databse in mongoDB.
 [Project](https://hidden-peak-88533.herokuapp.com/)
 
 ![Alt text](https://github.com/ravi1998-source/BlogSite/blob/main/Home.png)
-[Project](https://hidden-peak-88533.herokuapp.com/compose)
+[Compose Page](https://hidden-peak-88533.herokuapp.com/compose)
 ![Alt text](https://github.com/ravi1998-source/BlogSite/blob/main/Compose.png)
 
 ## Built With
